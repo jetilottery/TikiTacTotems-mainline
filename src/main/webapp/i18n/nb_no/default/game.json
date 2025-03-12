@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% til {@maxRTP}%",
+    "paybackTitle": "Premieandel",
+    "paybackBody": "For dette spillet er den teoretiske, oppgitte gevinstandelen {RTP}.",
+    "subheading": "Pris: {ticketCost}",
+    "prizeLevel": "Premie",
+    "prizeValue": "Premie",
+    "description": "Beskrivelse",
+    "descriptionList": {
+      "1": "Lilla maske",
+      "2": "Blå maske",
+      "3": "Grønn maske",
+      "4": "Fugl",
+      "5": "Fisk",
+      "6": "Blomst"
+    }
+  },
+  "title": "MAL",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Pris",
+    "howToPlay": "Hjelp",
+    "paytable": "PREMIEOVERSIKT",
+    "close": "Lukk",
+    "audio": {
+      "sound": "Lyd",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Feil: ",
+    "genericErrorText": "Det har oppstått en feil. AVSLUTT og start spillet på nytt."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PRIS",
+    "ticketSelect_ticketCost": "PRIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PRØVESPILL "
+    },
+    "footer_win": {
+      "BUY": "PREMIE",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+    "button_buy": {
+      "BUY": "KJØP",
+      "TRY": "PRØVESPILL"
+    },
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+    "button_moveToMoney": "SPILL FOR EKTE PENGER",
+    "button_autoPlay": "SKRAP ALT",
+    "button_stop": "STOPP",
+    "button_drop": "SPILL",
+    "button_playAgain": {
+      "BUY": "OK",
+      "TRY": "OK"
+    },
+    "button_tryAgain": "PRØVESPILL",
+    "button_ok": "OK",
+    "button_exit": "AVSLUTT",
+	"button_retry": "GJENTA",
+    "error_button_exit": "AVSLUTT",
+    "error_title": "FEIL",
+    "message_nonWin": "BEKLAGER, INGEN PREMIE",
+    "message_win": {
+      "BUY": "GRATULERER!\nDU VANT",
+      "TRY": "Hadde dette vært et spill for\nekte penger hadde du vunnet"
+    },
+    "totalWin": {
+      "BUY": "PREMIE",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+    "baseGameWin": "PREMIE",
+    "bonusWin": "TILLEGGSPREMIE: {0}",
+    "infoText": "TIKI SOL-SYMBOLET\nERSTATTER ALLE\nSYMBOLER OG\nTILDELER\n3 GRATISSPILL",
+    "infoTextPortrait": "TIKI SOL-SYMBOLET ERSTATTER ALLE SYMBOLER OG TILDELER 3 GRATISSPILL",
+    "howToPlay": "Slik spiller du",
+    "page1": "Få 3 like symboler på en rad for å vinne.\n\nTiki sol-symbolet erstatter alle symboler.\n\nTiki sol-symbolet tildeler 3 gratisspill!",
+    "winUpTo": "VINN INNTIL {0}",
+    "bonus": "GRATISSPILL",
+    "bonusNoWin": "INGEN GRATISSPILL",
+    "bonusTurns": "GRATISSPILL",
+    "bonusTurn": "GRATISSPILL",
+    "yourNumbers": "DINE TALL",
+    "luckyNumbers": "LYKKETALL"
+  }
+}

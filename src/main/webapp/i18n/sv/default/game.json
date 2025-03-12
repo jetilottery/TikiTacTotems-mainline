@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "prizeValue": "Prisvärde",
+    "description": "Beskrivning",
+    "descriptionList": {
+      "1": "Lila mask",
+      "2": "Blå mask",
+      "3": "Grön mask",
+      "4": "Fågel",
+      "5": "Fisk",
+      "6": "Blomma"
+    }
+  },
+  "title": "MALL",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PRÖVA "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "PRÖVA"
+    },
+    "button_try": "PRÖVA",
+    "button_continue": "FORTSÄTT",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPPA",
+    "button_drop": "SPELA",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+	"button_retry": "FÖRSÖK IGEN",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "GRATTIS!\nDU HAR VUNNIT",
+      "TRY": "TACK FÖR ATT DU SPELAR!\nDU KUNDE HA VUNNIT"
+    },
+    "totalWin": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+    "baseGameWin": "VINST",
+    "bonusWin": "BONUS: {0}",
+    "infoText": "TIKI SOLSYMBOL\r\nERSÄTTER ALLA\r\nSYMBOLER OCH GER\r\n3 BONUSRUNDOR",
+    "infoTextPortrait": "TIKI SOLSYMBOL ERSÄTTER ALLA SYMBOLER OCH GER 3 BONUSRUNDOR",
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "page1": "Få fram tre matchande symboler i en rad, kolumn eller diagonal för att vinna.\n\nTiki solsymbol ersätter alla andra symboler.\n\nTiki solsymbol ger också tre bonusrundor för ännu fler chanser att vinna!",
+    "winUpTo": "VINN UPP TILL {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "INGEN BONUSVINST",
+    "bonusTurns": "Bonusrundor",
+    "bonusTurn": "Bonusrunda",
+    "yourNumbers": "DINA NUMMER",
+    "luckyNumbers": "LYCKONUMMER"
+  }
+}

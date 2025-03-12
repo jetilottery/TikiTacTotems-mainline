@@ -1,0 +1,99 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Beschreibung",
+    "descriptionList": {
+      "1": "Violette Maske",
+      "2": "Blaue Maske",
+      "3": "Grüne Maske",
+      "4": "Vogel",
+      "5": "Fisch",
+      "6": "Blume"
+    }
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Einsatz",
+    "stake": "Einsatz",
+    "howToPlay": "Spielanleitung",
+    "paytable": "Was kann man gewinnen?",
+    "close": "Close",
+    "audio": {
+      "sound": "Ton",
+      "on": "Aktiviert",
+      "off": "Nicht aktiviert"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Interner Fehler erfasst. EXIT und Neustart des Spiels."
+  },
+  "Game": {
+    "footer_balance": "Balance:",
+    "footer_ticketCost": "Einsatz:",
+    "ticketSelect_ticketCost": "EINSATZ",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "Gewinn:",
+      "TRY": "Demo:"
+    },
+
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "WEITER",
+    "button_moveToMoney": "KAUFEN",
+    "button_autoPlay": "AUTOPLAY",
+    "button_stop": "STOPP",
+    "button_drop": "SPIELEN",
+    "button_playAgain":{
+      "BUY": "KAUFEN",
+      "TRY": "NOCHMALS"
+    },
+    "button_tryAgain": "DEMO",
+    "button_ok": "OK",
+    "button_exit": "ABBRECHEN",
+    "button_retry": "NOCHMALS",
+    "error_button_exit": "EXIT",
+    "error_title": "FEHLER",
+    
+    "message_nonWin": "Schade, kein Gewinn.",
+    "message_win": {
+      "BUY": "Glückwunsch!\nSie gewinnen",
+      "TRY": "Ein Demospiel gibt keinen Anspruch auf Gewinn."
+    },
+    "totalWin": {
+      "BUY": "Glückwunsch!\nSie gewinnen",
+      "TRY": "Ein Demospiel gibt keinen Anspruch auf Gewinn."
+    },
+    "baseGameWin": "Glückwunsch!\nSie gewinnen",
+    "bonusWin":"Glückwunsch!\nSie gewinnen",
+
+    "infoText" : "DAS SONNEN-SYMBOL\nSTEHT FÜR JEDES\nBELIEBIGE ANDERE SYMBOL\nUND GEWÄHRT\n3 BONUSSPIELE!",
+    "infoTextPortrait" : "DAS SONNEN-SYMBOL STEHT FÜR JEDES BELIEBIGE ANDERE SYMBOL UND GEWÄHRT 3 BONUSSPIELE!",
+    "howToPlay": "SPIELANLEITUNG",
+    "page1": "Decken Sie 3 identische Symbole in derselben Reihe, Spalte oder Diagonale auf, um zu gewinnen.\n\nDas Sonnen-Symbol steht für jedes beliebige andere Symbol.\n\nWenn Sie das Sonnen-Symbol aufdecken, erhalten Sie zudem 3 Bonusspiele.",
+
+    "winUpTo": "GEWINNEN SIE BIS ZU {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "KEIN GEWINN",
+    "bonusWin": "BONUS: {0}",
+    "bonusTurns": "BONUSSPIELE",
+    "bonusTurn": "BONUSSPIEL",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

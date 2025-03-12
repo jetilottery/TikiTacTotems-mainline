@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "TikiTacTotems",
+    "id": "300-2127-0",
+    "framework": "jet",
+    "version": "1.5",
+    "studio": "interactive"
+  }
+}

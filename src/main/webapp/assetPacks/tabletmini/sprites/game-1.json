@@ -1,0 +1,174 @@
+{"frames": {
+
+"B01_Sparkles_06":
+{
+	"frame": {"x":494,"y":301,"w":111,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":144,"w":111,"h":105},
+	"sourceSize": {"w":400,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"B01_Sparkles_07":
+{
+	"frame": {"x":429,"y":599,"w":131,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":135,"w":131,"h":120},
+	"sourceSize": {"w":400,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"B01_Sparkles_08":
+{
+	"frame": {"x":1,"y":595,"w":152,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":126,"w":152,"h":140},
+	"sourceSize": {"w":400,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"B01_Sparkles_09":
+{
+	"frame": {"x":391,"y":425,"w":172,"h":161},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":117,"w":172,"h":161},
+	"sourceSize": {"w":400,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"B01_Sparkles_10":
+{
+	"frame": {"x":197,"y":425,"w":192,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":108,"w":192,"h":183},
+	"sourceSize": {"w":400,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bonusAwardSparkleHit_02":
+{
+	"frame": {"x":498,"y":197,"w":118,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":202,"w":118,"h":102},
+	"sourceSize": {"w":550,"h":510},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bonusNumber1":
+{
+	"frame": {"x":1,"y":198,"w":217,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":193},
+	"sourceSize": {"w":217,"h":193},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bonusNumber3":
+{
+	"frame": {"x":1,"y":1,"w":221,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":195},
+	"sourceSize": {"w":221,"h":195},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S03_PayTableHighlight":
+{
+	"frame": {"x":224,"y":197,"w":272,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S04":
+{
+	"frame": {"x":220,"y":273,"w":272,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S04_PayTableHighlight":
+{
+	"frame": {"x":220,"y":349,"w":272,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S05":
+{
+	"frame": {"x":628,"y":1,"w":272,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S05_PayTableHighlight":
+{
+	"frame": {"x":155,"y":610,"w":272,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S06":
+{
+	"frame": {"x":562,"y":408,"w":272,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"LinesValue_Port_S06_PayTableHighlight":
+{
+	"frame": {"x":638,"y":275,"w":272,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":272,"h":74},
+	"sourceSize": {"w":273,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"S04":
+{
+	"frame": {"x":224,"y":1,"w":194,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":194,"h":200},
+	"sourceSize": {"w":320,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"S05":
+{
+	"frame": {"x":1,"y":393,"w":194,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":194,"h":200},
+	"sourceSize": {"w":320,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"S06":
+{
+	"frame": {"x":426,"y":1,"w":194,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":59,"w":194,"h":200},
+	"sourceSize": {"w":320,"h":320},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":736,"h":736},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:87777524f4d2513bca8aea6866a8fc2a:ed40d93aac6ff6c3be269b0a7fdbba50:5f209c681de9b838c81c16cabec82336$"
+}
+}

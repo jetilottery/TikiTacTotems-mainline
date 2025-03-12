@@ -1,0 +1,99 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Beschrijving",
+    "descriptionList": {
+      "1": "Violette masker",
+      "2": "Blauwe masker",
+      "3": "Groene masker",
+      "4": "Vogel",
+      "5": "Vis",
+      "6": "Bloem"
+    }
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Inzet",
+    "stake": "Inzet",
+    "howToPlay": "Hoe spelen?",
+    "paytable": "Wat kan je winnen?",
+    "close": "Close",
+    "audio": {
+      "sound": "Geluid",
+      "on": "Aan",
+      "off": "Uit"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fout: ",
+    "genericErrorText": "Interne fout gevonden. EXIT en het spel opnieuw starten."
+  },
+  "Game": {
+    "footer_balance": "Balance:",
+    "footer_ticketCost": "Inzet:",
+    "ticketSelect_ticketCost": "INZET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "Winst:",
+      "TRY": "Demo:"
+    },
+
+    "button_buy": {
+      "BUY": "KOPEN",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "DOORGAAN",
+    "button_moveToMoney": "KOPEN",
+    "button_autoPlay": "AUTOPLAY",
+    "button_stop": "STOP",
+    "button_drop": "SPELEN",
+    "button_playAgain":{
+      "BUY": "KOPEN",
+      "TRY": "OPNIEUW"
+    },
+    "button_tryAgain": "DEMO",
+    "button_ok": "OK",
+    "button_exit": "VERLATEN",
+    "button_retry": "OPNIEUW",
+    "error_button_exit": "EXIT",
+    "error_title": "FOUT",
+    
+    "message_nonWin": "Helaas, geen winstbedrag.",
+    "message_win": {
+      "BUY": "Proficiat!\nJe winst",
+      "TRY": "Een demospel geeft geen\nenkel recht op een winstbedrag."
+    },
+    "totalWin": {
+      "BUY": "Proficiat!\nJe winst",
+      "TRY": "Een demospel geeft geen\nenkel recht op een winstbedrag."
+    },
+    "baseGameWin": "Proficiat!\nJe winst",
+    "bonusWin":"Proficiat!\nJe winst",
+
+    "infoText" : "HET SYMBOOL “ZON”\nSTAAT VOOR OM\nHET EVEN WELK\nANDER SYMBOOL\nEN LEVERT\n3 BONUSSPELEN OP!",
+    "infoTextPortrait" : "HET SYMBOOL “ZON” STAAT VOOR OM HET EVEN WELK ANDER SYMBOOL EN LEVERT 3 BONUSSPELEN OP!",
+    "howToPlay": "HOE SPELEN?",
+    "page1": "Om te winnen, moet je 3 identieke symbolen vinden op dezelfde horizontale, verticale of diagonale lijn.\n\nHet symbool “Zon” staat voor om het even welk ander symbool.\n\nWanneer je het symbool “Zon” ontdekt, krijg je bovendien 3 bonusspelen.",
+
+    "winUpTo": "WIN TOT {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "GEEN WINST",
+    "bonusWin": "BONUS: {0}",
+    "bonusTurns": "BONUSSPELEN",
+    "bonusTurn": "BONUSSPEL",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

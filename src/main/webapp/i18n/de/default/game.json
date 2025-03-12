@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Ticketpreis: {ticketCost}",
+    "prizeLevel": "Preisstufe",
+    "prizeValue": "Preis-Wert",
+    "description": "Beschreibung",
+    "descriptionList": {
+      "1": "Lila Maske",
+      "2": "Blaue Maske",
+      "3": "Grüne Maske",
+      "4": "Vogel",
+      "5": "Fisch",
+      "6": "Blume"
+    }
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Einsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schließen",
+    "audio": {
+      "sound": "Sound",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+  },
+  "Game": {
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "TICKETPREIS",
+    "ticketSelect_ticketCost": "TICKETPREIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROBIEREN "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "PROBIEREN"
+    },
+    "button_try": "PROBIEREN",
+    "button_continue": "FORTSETZEN",
+    "button_moveToMoney": "ZU GELD VERSCHIEBEN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOPP",
+    "button_drop": "SPIELEN",
+    "button_playAgain": {
+      "BUY": "ERNEUT SPIELEN",
+      "TRY": "ERNEUT PROBIEREN"
+    },
+    "button_tryAgain": "ERNEUT PROBIEREN",
+    "button_ok": "OK",
+    "button_exit": "BEENDEN",
+	"button_retry": "ERNEUT VERSUCHEN",
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_win": {
+      "BUY": "GLÜCKWUNSCH!\nSIE HABEN GEWONNEN",
+      "TRY": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN"
+    },
+    "totalWin": {
+      "BUY": "GEWINN GESAMT",
+      "TRY": "DEMO-GEWINN GESAMT"
+    },
+    "baseGameWin": "GEWINN",
+    "bonusWin": "BONUS: {0}",
+    "infoText": "DAS TIKI-SONNEN-SYMBOL\nERSETZT ALLE\nSYMBOLE UND VERGIBT\n3 BONUS-TURNS",
+    "infoTextPortrait": "DAS TIKI-SONNEN-SYMBOL ERSETZT ALLE SYMBOLE UND VERGIBT 3 BONUS-TURNS",
+    "howToPlay": "SPIELANLEITUNG",
+    "page1": "Decken Sie 3 übereinstimmende Symbole in einer Reihe, Spalte oder diagonal auf, um zu gewinnen.\n\nDas Tiki-Sonnen-Symbol ersetzt jedes andere Symbol.\n\nDas Tiki-Sonnen-Symbol vergibt 3 Bonus-Turns für noch mehr Gewinnchancen!",
+    "winUpTo": "GEWINNEN SIE BIS ZU {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "KEIN BONUSGEWINN",
+    "bonusTurns": "Bonus-Turns",
+    "bonusTurn": "Bonus-Turn",
+    "yourNumbers": "IHRE ZAHLEN",
+    "luckyNumbers": "GLÜCKSZAHLEN"
+  }
+}

@@ -1,0 +1,895 @@
+
+tikiTacToe_background.jpg
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTransparent/landscape/TikiLandscapeBG
+  rotate: false
+  xy: 2, 2
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+nonTransparent/landscape/landscape_bonusBackground
+  rotate: false
+  xy: 724, 2
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+
+tikiTacToe_background2.jpg
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTransparent/portrait/background_bonus_port
+  rotate: true
+  xy: 2, 2
+  size: 405, 614
+  orig: 405, 614
+  offset: 0, 0
+  index: -1
+nonTransparent/portrait/background_port
+  rotate: true
+  xy: 618, 2
+  size: 405, 614
+  orig: 405, 614
+  offset: 0, 0
+  index: -1
+
+tikiTacToe_background3.jpg
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTransparent/waterRipple/watterRipple_000
+  rotate: false
+  xy: 2, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_097
+  rotate: false
+  xy: 2, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_001
+  rotate: false
+  xy: 2, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_002
+  rotate: false
+  xy: 104, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_003
+  rotate: false
+  xy: 2, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_004
+  rotate: false
+  xy: 104, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_005
+  rotate: false
+  xy: 206, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_006
+  rotate: false
+  xy: 2, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_007
+  rotate: false
+  xy: 104, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_008
+  rotate: false
+  xy: 206, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_009
+  rotate: false
+  xy: 308, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_010
+  rotate: false
+  xy: 2, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_011
+  rotate: false
+  xy: 104, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_012
+  rotate: false
+  xy: 206, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_013
+  rotate: false
+  xy: 308, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_014
+  rotate: false
+  xy: 410, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_015
+  rotate: false
+  xy: 104, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_016
+  rotate: false
+  xy: 206, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_017
+  rotate: false
+  xy: 308, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_018
+  rotate: false
+  xy: 410, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_019
+  rotate: false
+  xy: 512, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_020
+  rotate: false
+  xy: 206, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_021
+  rotate: false
+  xy: 308, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_022
+  rotate: false
+  xy: 410, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_023
+  rotate: false
+  xy: 512, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_024
+  rotate: false
+  xy: 614, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_025
+  rotate: false
+  xy: 308, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_026
+  rotate: false
+  xy: 410, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_027
+  rotate: false
+  xy: 512, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_028
+  rotate: false
+  xy: 614, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_029
+  rotate: false
+  xy: 716, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_030
+  rotate: false
+  xy: 410, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_031
+  rotate: false
+  xy: 512, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_032
+  rotate: false
+  xy: 614, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_033
+  rotate: false
+  xy: 716, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_034
+  rotate: false
+  xy: 818, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_035
+  rotate: false
+  xy: 512, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_036
+  rotate: false
+  xy: 614, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_037
+  rotate: false
+  xy: 716, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_038
+  rotate: false
+  xy: 818, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_039
+  rotate: false
+  xy: 920, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_040
+  rotate: false
+  xy: 614, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_041
+  rotate: false
+  xy: 716, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_042
+  rotate: false
+  xy: 818, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_043
+  rotate: false
+  xy: 920, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_044
+  rotate: false
+  xy: 1022, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_045
+  rotate: false
+  xy: 716, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_046
+  rotate: false
+  xy: 818, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_047
+  rotate: false
+  xy: 920, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_048
+  rotate: false
+  xy: 1022, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_049
+  rotate: false
+  xy: 1124, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_050
+  rotate: false
+  xy: 818, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_051
+  rotate: false
+  xy: 920, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_052
+  rotate: false
+  xy: 1022, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_053
+  rotate: false
+  xy: 1124, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_054
+  rotate: false
+  xy: 1226, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_055
+  rotate: false
+  xy: 920, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_056
+  rotate: false
+  xy: 1022, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_057
+  rotate: false
+  xy: 1124, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_058
+  rotate: false
+  xy: 1226, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_059
+  rotate: false
+  xy: 1328, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_060
+  rotate: false
+  xy: 1022, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_061
+  rotate: false
+  xy: 1124, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_062
+  rotate: false
+  xy: 1226, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_063
+  rotate: false
+  xy: 1328, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_064
+  rotate: false
+  xy: 1430, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_065
+  rotate: false
+  xy: 1124, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_066
+  rotate: false
+  xy: 1226, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_067
+  rotate: false
+  xy: 1328, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_068
+  rotate: false
+  xy: 1430, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_069
+  rotate: false
+  xy: 1532, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_070
+  rotate: false
+  xy: 1226, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_071
+  rotate: false
+  xy: 1328, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_072
+  rotate: false
+  xy: 1430, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_073
+  rotate: false
+  xy: 1532, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_074
+  rotate: false
+  xy: 1634, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_075
+  rotate: false
+  xy: 1328, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_076
+  rotate: false
+  xy: 1430, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_077
+  rotate: false
+  xy: 1532, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_078
+  rotate: false
+  xy: 1634, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_079
+  rotate: false
+  xy: 1736, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_080
+  rotate: false
+  xy: 1430, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_081
+  rotate: false
+  xy: 1532, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_082
+  rotate: false
+  xy: 1634, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_083
+  rotate: false
+  xy: 1736, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_084
+  rotate: false
+  xy: 1838, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_085
+  rotate: false
+  xy: 1532, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_086
+  rotate: false
+  xy: 1634, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_087
+  rotate: false
+  xy: 1736, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_088
+  rotate: false
+  xy: 1838, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_089
+  rotate: false
+  xy: 1940, 190
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_090
+  rotate: false
+  xy: 1634, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_091
+  rotate: false
+  xy: 1736, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_092
+  rotate: false
+  xy: 1838, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_093
+  rotate: false
+  xy: 1940, 143
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_094
+  rotate: false
+  xy: 1736, 2
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_095
+  rotate: false
+  xy: 1838, 49
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+nonTransparent/waterRipple/watterRipple_096
+  rotate: false
+  xy: 1940, 96
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+
+tikiTacToe_background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/landsacpe/frontLeaves
+  rotate: false
+  xy: 2, 1129
+  size: 1440, 774
+  orig: 1440, 886
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/midGround
+  rotate: false
+  xy: 2, 372
+  size: 1440, 755
+  orig: 1440, 941
+  offset: 0, 186
+  index: -1
+transparent/landsacpe/placeholder
+  rotate: false
+  xy: 1920, 1902
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/treesLeft
+  rotate: false
+  xy: 1444, 1583
+  size: 474, 320
+  orig: 1440, 941
+  offset: 0, 621
+  index: -1
+transparent/landsacpe/treesRight
+  rotate: false
+  xy: 2, 2
+  size: 334, 368
+  orig: 1440, 941
+  offset: 0, 573
+  index: -1
+transparent/landsacpe/waterSpark
+  rotate: false
+  xy: 1444, 1579
+  size: 9, 2
+  orig: 10, 3
+  offset: 0, 1
+  index: -1
+
+tikiTacToe_background2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/landsacpe/gameArea
+  rotate: false
+  xy: 2, 2
+  size: 1440, 750
+  orig: 1440, 810
+  offset: 0, 7
+  index: -1
+
+tikiTacToe_background3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/landsacpe/bonusLayers/clouds_bonus
+  rotate: true
+  xy: 1444, 621
+  size: 1392, 466
+  orig: 1445, 909
+  offset: 0, 443
+  index: -1
+transparent/landsacpe/bonusLayers/foregroundFollageGlow_bonus
+  rotate: false
+  xy: 2, 1235
+  size: 1440, 778
+  orig: 1440, 891
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonusLayers/foregroundFollage_bonus
+  rotate: false
+  xy: 2, 459
+  size: 1440, 774
+  orig: 1440, 886
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonusLayers/lampGlow
+  rotate: false
+  xy: 1912, 1963
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonusLayers/lanternLight_bonus
+  rotate: false
+  xy: 2, 39
+  size: 1318, 418
+  orig: 1445, 842
+  offset: 0, 0
+  index: -1
+transparent/landsacpe/bonusLayers/treeLeft_bonus
+  rotate: false
+  xy: 1444, 344
+  size: 474, 275
+  orig: 1440, 810
+  offset: 0, 535
+  index: -1
+transparent/landsacpe/bonusLayers/treeRight_bonus
+  rotate: true
+  xy: 1322, 2
+  size: 340, 368
+  orig: 1468, 941
+  offset: 0, 573
+  index: -1
+
+tikiTacToe_background4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/landsacpe/bonusLayers/foregroundLanterns_bonus
+  rotate: true
+  xy: 1444, 127
+  size: 1350, 203
+  orig: 1440, 860
+  offset: 32, 0
+  index: -1
+transparent/landsacpe/bonusLayers/gamePlaques_bonus
+  rotate: false
+  xy: 2, 727
+  size: 1440, 750
+  orig: 1440, 810
+  offset: 0, 7
+  index: -1
+transparent/landsacpe/bonusLayers/midGround_bonus
+  rotate: false
+  xy: 2, 2
+  size: 1440, 723
+  orig: 1440, 723
+  offset: 0, 0
+  index: -1
+
+tikiTacToe_background5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transparent/portrait/gameArea_bonus_port
+  rotate: false
+  xy: 2, 2
+  size: 797, 1141
+  orig: 801, 1141
+  offset: 4, 0
+  index: -1
+transparent/portrait/gameArea_port
+  rotate: false
+  xy: 801, 2
+  size: 795, 1141
+  orig: 799, 1141
+  offset: 4, 0
+  index: -1

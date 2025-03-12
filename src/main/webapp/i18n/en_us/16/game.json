@@ -1,0 +1,99 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Description",
+    "descriptionList": {
+      "1": "Purple Mask",
+      "2": "Blue Mask",
+      "3": "Green Mask",
+      "4": "Bird",
+      "5": "Fish",
+      "6": "Flower"
+    }
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO"
+    },
+    "footer_win": {
+      "BUY": "WINS",
+      "TRY": "DEMO WINS"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_drop": "PLAY",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "button_retry": "RETRY",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+    "totalWin": {
+      "BUY": "TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN"
+    },
+    "baseGameWin": "WIN",
+    "bonusWin":"BONUS WIN",
+
+    "infoText" : "TIKI SUN SYMBOL\nSUBSTITUTES FOR ALL\nSYMBOLS & AWARDS\n3 BONUS TURNS",
+    "infoTextPortrait" : "TIKI SUN SYMBOL SUBSTITUTES FOR ALL SYMBOLS & AWARDS 3 BONUS TURNS",
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Reveal 3 matching symbols in any row, column or diagonal to win.\n\nThe Tiki Sun symbol substitutes for any other symbol.\n\nThe Tiki Sun symbol also awards 3 Bonus Turns for even more chances to win!",
+
+    "winUpTo": "WIN UP TO {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "BONUS: {0}",
+    "bonusTurns": "Bonus Turns",
+    "bonusTurn": "Bonus Turn",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

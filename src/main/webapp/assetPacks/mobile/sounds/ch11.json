@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch11.mp3",
+    "ch11.ogg",
+    "ch11.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusDrop": [
+      1050,
+      1241.655328798186
+    ],
+    "BonusTurnsIncrease": [
+      3100,
+      1344.5804988662132
+    ]
+  }
+}

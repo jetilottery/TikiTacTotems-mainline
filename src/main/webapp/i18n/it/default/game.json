@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "Tra {@minRTP}% e {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Per questo gioco, il ritorno teoricamente previsto sul lungo termine è di {RTP}.",
+    "subheading": "Prezzo Biglietto: {ticketCost}",
+    "prizeLevel": "Livello del Premio",
+    "prizeValue": "Valore del Premio",
+    "description": "Descrizione",
+    "descriptionList": {
+      "1": "Maschera viola",
+      "2": "Maschera blu",
+      "3": "Maschera verde",
+      "4": "Uccello",
+      "5": "Pesce",
+      "6": "Fiore"
+    }
+  },
+  "title": "MODELLO",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_drop": "GIOCA",
+    "button_playAgain": {
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+	"button_retry": "RIPROVA",
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_win": {
+      "BUY": "CONGRATULAZIONI!\nHAI VINTO",
+      "TRY": "GRAZIE PER AVER GIOCATO!\nAVRESTI POTUTO VINCERE"
+    },
+    "totalWin": {
+      "BUY": "VINCITA TOTALE",
+      "TRY": "VINCITA DEMO TOTALE"
+    },
+    "baseGameWin": "VINCITA",
+    "bonusWin": "BONUS: {0}",
+    "infoText": "IL SIMBOLO TIKI SUN\nSOSTITUISCE TUTTI\nI SIMBOLI E ASSEGNA\n3 TURNI BONUS",
+    "infoTextPortrait": "IL SIMBOLO TIKI SUN SOSTITUISCE TUTTI I SIMBOLI E ASSEGNA 3 TURNI BONUS",
+    "howToPlay": "COME SI GIOCA",
+    "page1": "Fai comparire 3 simboli uguali in una riga, colonna o diagonale per vincere.\n\nIl simbolo Tiki Sun sostituisce qualsiasi altro simbolo.\n\nIl simbolo Tiki Sun assegna anche 3 Turni Bonus per avere ancora più possibilità di vincere!",
+    "winUpTo": "VINCI FINO A {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "NESSUNA VINCITA BONUS",
+    "bonusTurns": "Turni bonus",
+    "bonusTurn": "Turno bonus",
+    "yourNumbers": "I TUOI NUMERI",
+    "luckyNumbers": "NUMERI FORTUNATI"
+  }
+}

@@ -1,0 +1,30 @@
+{"frames": {
+
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":3,"y":3,"w":810,"h":1035},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":810,"h":1035},
+	"sourceSize": {"w":810,"h":1128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portraitPaytableBackground":
+{
+	"frame": {"x":1042,"y":3,"w":733,"h":736},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":733,"h":736},
+	"sourceSize": {"w":733,"h":736},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-4.png",
+	"format": "RGBA8888",
+	"size": {"w":1778,"h":816},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e9e4bdda8482d00e7e44eca1b39030fb:643477c6641e288fe578f798caab48f4:e72ff51ee83940c0e8a35173f676d066$"
+}
+}

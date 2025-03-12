@@ -1,0 +1,93 @@
+{
+	"version": "",
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"subheading": "Ticket Cost NL: {ticketCost}",
+		"prizeLevel": "Prize Level",
+		"prizeValue": "Prize Value",
+		"description": "Description",
+		"descriptionList": {
+			"1": "Golden Jaguar",
+			"2": "Green Eagle",
+			"3": "Blue Face",
+			"4": "Blue Stone",
+			"5": "Green Stone",
+			"6": "Red Stone"
+		}
+	},
+	"title": "TEMPLATE",
+	"MenuCommand": {
+		"price": "Price",
+		"stake": "Stake",
+		"howToPlay": "Help",
+		"paytable": "Paytable",
+		"close": "Close",
+		"audio": {
+			"sound": "Sound",
+			"on": "On",
+			"off": "Off"
+		}
+	},
+	"Error": {
+		"errorCodePrefix": "Error: ",
+		"genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+	},
+	"Game": {
+		"footer_balance": "BALANCE",
+		"footer_ticketCost": "TICKET COST NL",
+		"ticketSelect_ticketCost": "TICKET COST",
+		"ticketCostPrefix": {
+			"BUY": "",
+			"TRY": "TRY "
+		},
+		"footer_win": {
+			"BUY": "WIN",
+			"TRY": "DEMO WIN"
+		},
+		"button_buy": {
+			"BUY": "BUYNL",
+			"TRY": "TRYNL"
+		},
+		"button_try": "TRYNL",
+		"button_continue": "CONTINUENL",
+		"button_moveToMoney": "MOVE TO MONEY NL",
+		"button_autoPlay": "REVEAL ALL",
+		"button_stop": "STOP",
+		"button_drop": "PLAY NL",
+		"button_playAgain": {
+			"BUY": "PLAY AGAIN",
+			"TRY": "TRY AGAIN"
+		},
+		"button_tryAgain": "TRY AGAIN",
+		"button_ok": "OK",
+		"button_exit": "EXIT",
+		"button_retry": "RETRY",
+		"error_button_exit": "EXIT",
+		"error_title": "ERROR",
+		"message_nonWin": "BETTER LUCK\nNEXT TIME!",
+		"message_win": {
+			"BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+			"TRY": "THANKS FOR PLAYING! NL \nYOU COULD HAVE WON"
+		},
+		"totalWin": {
+			"BUY": "TOTAL WIN",
+			"TRY": "TOTAL DEMO WIN"
+		},
+		"baseGameWin": "WIN",
+		"bonusWin": "BONUS: {0}",
+		"infoText": "SUN SYMBOL\nSUBSTITUTES FOR\nALL SYMBOLS &\nAWARDS 3 BONUS\nTURNS",
+		"infoTextPortrait": "SUN SYMBOL SUBSTITUTES FOR ALL SYMBOLS & AWARDS 3 BONUS TURNS",
+		"howToPlay": "HOW TO PLAY",
+		"page1": "Reveal 3 matching symbols in any row, column or diagonal to win.\n\nThe Tiki Sun symbol substitutes for any other symbol.\n\nThe Tiki Sun symbol also awards 3 Bonus Turns for even more chances to win!",
+		"winUpTo": "WIN UP TO {0}",
+		"bonus": "BONUS",
+		"bonusNoWin": "NO BONUS WIN",
+		"bonusTurns": "Bonus Turns",
+		"bonusTurn": "Bonus Turn",
+		"yourNumbers": "YOUR NUMBERS",
+		"luckyNumbers": "LUCKY NUMBERS"
+	}
+}

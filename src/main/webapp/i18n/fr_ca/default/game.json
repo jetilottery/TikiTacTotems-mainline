@@ -1,0 +1,99 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "prizeValue": "Valeur du lot",
+    "description": "Description",
+    "descriptionList": {
+      "1": "Masque mauve",
+      "2": "Masque bleu",
+      "3": "Masque vert",
+      "4": "Oiseau",
+      "5": "Poisson",
+      "6": "Fleur"
+    }
+  },
+  "title": "GABARIT",
+  "MenuCommand": {
+    "price": "Lot",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ et relancez le jeu."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_drop": "JOUER",
+    "button_playAgain":{
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+	"button_retry": "RÉESSAYER",
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+
+    "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ",
+      "TRY": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER"
+    },
+    "totalWin": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+    "baseGameWin": "GAIN",
+    "":"GAIN BONI",
+
+    "infoText" : "LE SYMBOLE TIKI SUN\nREMPLACE TOUS LES\nSYMBOLES ET ACCORDE\nTROIS PARTIES GRATUITES",
+    "infoTextPortrait" : "LE SYMBOLE TIKI SUN REMPLACE TOUS LES SYMBOLES ET ACCORDE TROIS PARTIES GRATUITES",
+    "howToPlay": "COMMENT JOUER",
+    "page1": "Découvrez trois symboles identiques sur n’importe quelle rangée, colonne ou diagonale pour gagner.\n\nLe symbole Tiki Sun remplace tous les autres symboles.\n\nDe plus, le symbole Tiki Sun accorde trois parties gratuites, ce qui augmente vos chances de gagner!",
+
+    "winUpTo": "GAGNEZ JUSQU’À {0}",
+    "bonus": "SYMBOLE BONI",
+    "bonusNoWin": "AUCUN GAIN BONI",
+    "bonusWin": "SYMBOLE BONI : {0}",
+    "bonusTurns": "Parties gratuites",
+    "bonusTurn": "Partie gratuite",
+
+    "yourNumbers": "VOS NUMÉROS",
+    "luckyNumbers": "NUMÉROS CHANCEUX"
+  }
+}

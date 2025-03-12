@@ -1,0 +1,99 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value",
+    "description": "Description",
+    "descriptionList": {
+      "1": "Masque violet",
+      "2": "Masque bleu",
+      "3": "Masque vert",
+      "4": "Oiseau",
+      "5": "Poisson",
+      "6": "Fleur"
+    }
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Mise",
+    "stake": "Mise",
+    "howToPlay": "Comment jouer ?",
+    "paytable": "Que peut-on gagner ?",
+    "close": "Close",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Erreur interne détectée. EXIT et relancer le jeu."
+  },
+  "Game": {
+    "footer_balance": "Balance :",
+    "footer_ticketCost": "Mise :",
+    "ticketSelect_ticketCost": "MISE",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DÉMO "
+    },
+    "footer_win": {
+      "BUY": "Gain :",
+      "TRY": "Démo :"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+    "button_try": "DÉMO",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "ACHETER",
+    "button_autoPlay": "AUTOPLAY",
+    "button_stop": "STOP",
+    "button_drop": "JOUER",
+    "button_playAgain":{
+      "BUY": "ACHETER",
+      "TRY": "RECOMMENCER"
+    },
+    "button_tryAgain": "RECOMMENCER",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+    "button_retry": "RECOMMENCER",
+    "error_button_exit": "EXIT",
+    "error_title": "ERREUR",
+    
+    "message_nonWin": "Dommage, pas de gain",
+    "message_win": {
+      "BUY": "Bravo !\nVous gagnez",
+      "TRY": "Une démo du jeu ne donne droit à aucun gain."
+    },
+    "totalWin": {
+      "BUY": "Bravo !\nVous gagnez",
+      "TRY": "Une démo du jeu ne donne droit à aucun gain."
+    },
+    "baseGameWin": "Bravo !\nVous gagnez",
+    "bonusWin":"Bravo !\nVous gagnez",
+
+    "infoText" : "LE SYMBOLE SOLEIL\nREPRÉSENTE N’IMPORTE\nQUEL AUTRE SYMBOLE\nET OFFRE\n3 JEUX BONUS !",
+    "infoTextPortrait" : "LE SYMBOLE SOLEIL REPRÉSENTE N’IMPORTE QUEL AUTRE SYMBOLE ET OFFRE 3 JEUX BONUS !",
+    "howToPlay": "COMMENT JOUER ?",
+    "page1": "Découvrez 3 symboles identiques sur une même ligne horizontale, verticale ou diagonale pour gagner.\n\nLe symbole Soleil représente n’importe quel autre symbole. \n\nEn découvrant le symbole Soleil, vous obtenez également 3 jeux bonus.",
+
+    "winUpTo": "GAGNEZ JUSQU’À {0}",
+    "bonus": "BONUS",
+    "bonusNoWin": "PAS DE GAIN",
+    "bonusWin": "BONUS: {0}",
+    "bonusTurns": "jeux bonus",
+    "bonusTurn": "jeu bonus",
+    
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "showResultScreen": true,
+    "showHowToPlayOnLoad": true,
+    "showPayTableOnLoad": true,
+    "suppressNonWinResultPlaque": false
+}
